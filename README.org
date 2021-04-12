@@ -1,0 +1,3 @@
+* Badli dot Zsh
+  site1 https://git.sr.ht/~badli/dot-zsh 
+  site2 https://github.com/badlirashid/dot-zsh
